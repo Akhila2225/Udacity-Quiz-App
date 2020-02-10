@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Quizz_App</string>
+    <string name="main_title">Android Quiz</string>
+
+    <!--Questions-->
+    <string name="question_One">How to pass the data between activities in Android</string>
+    <string name="question_Two">How to get current location in android?</string>
+    <string name="question_Three">What is ANR responding time in android?</string>
+    <string name="question_Four">Identify the android image</string>
+    <string name="question_Five">What is the main difference between set and list in android?</string>
+
+
+    <!--Question titles-->
+    <string name="question_1_title">Question 1</string>
+    <string name="question_2_title">Question 2</string>
+    <string name="question_3_title">Question 3</string>
+    <string name="question_4_title">Question 4</string>
+    <string name="question_5_title">Question 5</string>
+
+    <!--Question1 options-->
+    <string name="question_1_option1">Intent</string>
+    <string name="question_1_option2">Broadcast Receiver</string>
+    <string name="question_1_option3">Content Provider</string>
+
+     <!--Question2 options-->
+    <string name="question_2_option1">Using GPRS</string>
+    <string name="question_2_option2">Using Location Providers</string>
+    <string name="question_2_option3">Using Network Providers</string>
+
+    <!--Question5 options-->
+    <string name="question_5_option1">List may contain duplicate values</string>
+    <string name="question_5_option2">Set can\'t contain duplicate values</string>
+    <string name="question_5_option3">Android does not contain sets </string>
+    <string name="question_5_option4">Both are same </string>
+    <string name="android_jet_pack">Android Jet Pack</string>
+    <string name="android_jelly_bean">Android Jelly bean</string>
+    <string name="enter_your_answer">enter your answer</string>
+    <string name="submit">SUBMIT</string>
+    <string name="todo">TODO</string>
+    <string name="enter_your_answer_in_sec">enter your answer in sec</string>
+
+
+</resources>
